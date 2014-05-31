@@ -70,7 +70,7 @@ texte-rouge {
 	font-family: inherit;
 }
 
-.open { display: block; position:fixed; width: 40px; height: 30px; background: url(../img/menu.png) center no-repeat #5f0504; border-radius: 8px; text-indent: -999em; }
+.open { display: block; position:fixed; width: 40px; height: 30px; background: url(../img/menu.png) center no-repeat ; border-radius: 8px; text-indent: -999em; }
 
 .bas { background: #000000; position: fixed; bottom: 0; width: 100%; height: 50px;}
 
