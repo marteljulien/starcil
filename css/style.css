@@ -90,3 +90,18 @@ a:hover { opacity: .7; }
 text {
 	color: #FFF;
 }
+
+
+
+a {
+  text-decoration: underline;
+  color: #FF0000;
+}
+a:visited {
+  text-decoration: underline;
+  color: #FF0000;
+}
+a:hover, a:focus, a:active {
+  text-decoration: underline;
+  color: #FF0000;
+}
