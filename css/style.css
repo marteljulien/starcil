@@ -65,6 +65,13 @@ texte {
 	font-family: inherit;
 }
 
+texte-italique {
+	color: #ffffff;
+	font-family: inherit;
+	font-style:italic;
+	font-size:12px
+}
+
 texte-rouge {
 	color: #ff0000;
 	font-family: inherit;
